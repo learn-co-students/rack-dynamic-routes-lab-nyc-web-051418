@@ -14,5 +14,3 @@ end
 
 end
 
-# Item.new("Figs",3.42)
-# Item.new("Pears",0.99)

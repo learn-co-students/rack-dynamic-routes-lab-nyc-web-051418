@@ -1,5 +1,4 @@
-require_relative "item"
-# require "pry"
+
 class Application
 
 
@@ -25,5 +24,4 @@ end
     resp.finish
   end
 end
-# binding.pry
-# true
+
